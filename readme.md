@@ -1,0 +1,1 @@
+Para ejecutar el programa abra el acceso directo de nombre cotizador
