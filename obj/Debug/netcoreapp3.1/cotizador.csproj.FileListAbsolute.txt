@@ -1,0 +1,16 @@
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.exe
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.deps.json
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.runtimeconfig.json
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.runtimeconfig.dev.json
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.dll
+C:\Users\cliente\source\repos\cotizador\bin\Debug\netcoreapp3.1\cotizador.pdb
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.csproj.AssemblyReference.cache
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.Form1.resources
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.csproj.GenerateResource.cache
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.AssemblyInfoInputs.cache
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.AssemblyInfo.cs
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.dll
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.pdb
+C:\Users\cliente\source\repos\cotizador\obj\Debug\netcoreapp3.1\cotizador.genruntimeconfig.cache
